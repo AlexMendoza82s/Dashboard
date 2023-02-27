@@ -59,7 +59,7 @@ let runScripts =() =>
     second.innerHTML = message_users;
     third.innerHTML = message_clients;
     fourth.innerHTML = message_sales; 
-
+//
     let cambios = [
       {
         valor_previo: 250,
