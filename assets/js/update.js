@@ -79,7 +79,7 @@ let runScripts =() =>
       {
         valor_previo: 110200,
         valor_actual: 121520,
-        mensaje_tiempo: 'que ayer---'
+        mensaje_tiempo: 'que ayer'
       }
     ];
     let listOfValues = document.getElementsByClassName('card-footer p-3');
