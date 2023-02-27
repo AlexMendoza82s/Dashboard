@@ -254,15 +254,6 @@ let loadData =()=>
       },
     });
     chart1.data.datasets[0].data=newData;
-
-    /*
-    let chartRef2=document.getElementById("chart-line").getContext("2d");
-    let chart2=new Chart(chartRef2,{});
-
-    let chartRef3=document.getElementById("chart-line-task").getContext("2d");
-    let chart3=new Chart(chartRef3,{});
-    */
-
 };
 
 loadData();
